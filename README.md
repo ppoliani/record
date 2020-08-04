@@ -1,9 +1,13 @@
-# record
+# @ppoliani/record
 A stateful record ADT
 
 Installation
 ===
 `npm install @ppoliani/record`
+
+or 
+
+`yarn add @ppoliani/record`
 
 Usage
 ===
