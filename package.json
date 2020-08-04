@@ -2,7 +2,7 @@
   "name": "@ppoliani/record",
   "version": "1.0.0",
   "description": "A staful record ADT",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/ppoliani/record",
   "author": "ppoliani <ppoliani@gmail.com>",
   "license": "MIT",
