@@ -6,7 +6,6 @@
   "repository": "https://github.com/ppoliani/record",
   "author": "ppoliani <ppoliani@gmail.com>",
   "license": "MIT",
-  "private": false,
   "devDependencies": {
     "ava": "^3.11.1"
   }
