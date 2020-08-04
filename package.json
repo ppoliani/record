@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "repository": "https://github.com/ppoliani/record",
   "author": "ppoliani <ppoliani@gmail.com>",
+  "scripts": {
+    "test": "node_modules/.bin/ava ./test/*.test.js --serial"
+  },
   "license": "MIT",
   "devDependencies": {
     "ava": "^3.11.1"
