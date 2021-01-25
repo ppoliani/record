@@ -9,6 +9,9 @@
     "test": "node_modules/.bin/ava ./test/*.test.js --serial"
   },
   "license": "MIT",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
   "devDependencies": {
     "ava": "^3.11.1"
   }
