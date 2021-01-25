@@ -1,5 +1,5 @@
 {
-  "name": "record-adt",
+  "name": "@ppoliani/record-adt",
   "version": "1.0.1",
   "description": "A staful record ADT",
   "main": "lib/index.js",
