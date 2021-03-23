@@ -3,9 +3,9 @@ const Record = require('../lib');
 
 const Stack = Record({
   items: [],
-  push: stack => item => stack.items.push(item),
-  pop: stack => stack.items.pop(),
-  count: stack => stack.items.length
+  push: (self, item) => self.items.push(item),
+  pop: self => self.items.pop(),
+  count: self => self.items.length
 });
 
 test('It should create an instance with default state', t => {

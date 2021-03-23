@@ -1,6 +1,6 @@
 {
   "name": "@ppoliani/im-record",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A staful record ADT",
   "main": "lib/index.js",
   "repository": "https://github.com/ppoliani/record",
